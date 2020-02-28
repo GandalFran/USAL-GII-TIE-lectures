@@ -1,0 +1,32 @@
+************************************************************************
+tasksche.exe pid:   1940
+Command line : "C:\Intel\ivecuqmanpnirkt615\tasksche.exe" 
+Service Pack 3
+
+Base             Size  LoadCount LoadTime                       Path
+---------- ---------- ---------- ------------------------------ ----
+0x00400000   0x35a000     0xffff                                C:\Intel\ivecuqmanpnirkt615\tasksche.exe
+0x7c900000    0xb2000     0xffff                                C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff                                C:\WINDOWS\system32\kernel32.dll
+0x7e410000    0x91000     0xffff                                C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff                                C:\WINDOWS\system32\GDI32.dll
+0x77dd0000    0x9b000     0xffff                                C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x93000     0xffff                                C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff                                C:\WINDOWS\system32\Secur32.dll
+0x77c10000    0x58000     0xffff                                C:\WINDOWS\system32\MSVCRT.dll
+0x76390000    0x1d000        0x1                                C:\WINDOWS\system32\IMM32.DLL
+0x629c0000     0x9000        0x1                                C:\WINDOWS\system32\LPK.DLL
+0x74d90000    0x6b000        0x1                                C:\WINDOWS\system32\USP10.dll
+0x77b40000    0x22000        0x1                                C:\WINDOWS\system32\Apphelp.dll
+0x77c00000     0x8000        0x1                                C:\WINDOWS\system32\VERSION.dll
+0x68000000    0x36000        0x1                                C:\WINDOWS\system32\rsaenh.dll
+0x7c9c0000   0x818000        0x1                                C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000        0x3                                C:\WINDOWS\system32\SHLWAPI.dll
+0x773d0000   0x103000        0x2                                C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.6028_x-ww_61e65202\comctl32.dll
+0x76080000    0x65000        0x1                                C:\WINDOWS\system32\MSVCP60.dll
+0x77690000    0x21000        0x1                                C:\WINDOWS\system32\NTMARTA.DLL
+0x774e0000   0x13e000        0x1                                C:\WINDOWS\system32\ole32.dll
+0x71bf0000    0x13000        0x1                                C:\WINDOWS\system32\SAMLIB.dll
+0x76f60000    0x2c000        0x1                                C:\WINDOWS\system32\WLDAP32.dll
+0x769c0000    0xb4000        0x1                                C:\WINDOWS\system32\USERENV.dll
+0x5ad70000    0x38000        0x2                                C:\WINDOWS\system32\uxtheme.dll

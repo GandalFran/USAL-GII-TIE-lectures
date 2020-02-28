@@ -1,0 +1,5 @@
+Offset(V)     Pid     Handle     Access Type             Details
+---------- ------ ---------- ---------- ---------------- -------
+0x821883e8   1940       0x40   0x120001 Mutant           ShimCacheMutex
+0x8224f180   1940       0x54   0x1f0001 Mutant           MsWinZonesCacheCounterMutexA
+0x822e3b08   1940       0x58   0x1f0001 Mutant           MsWinZonesCacheCounterMutexA0

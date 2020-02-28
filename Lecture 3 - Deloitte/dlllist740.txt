@@ -1,0 +1,39 @@
+************************************************************************
+@WanaDecryptor@ pid:    740
+Command line : @WanaDecryptor@.exe
+Service Pack 3
+
+Base             Size  LoadCount LoadTime                       Path
+---------- ---------- ---------- ------------------------------ ----
+0x00400000    0x3d000     0xffff                                C:\Intel\ivecuqmanpnirkt615\@WanaDecryptor@.exe
+0x7c900000    0xb2000     0xffff                                C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff                                C:\WINDOWS\system32\kernel32.dll
+0x73dd0000    0xf2000     0xffff                                C:\WINDOWS\system32\MFC42.DLL
+0x77c10000    0x58000     0xffff                                C:\WINDOWS\system32\msvcrt.dll
+0x77f10000    0x49000     0xffff                                C:\WINDOWS\system32\GDI32.dll
+0x7e410000    0x91000     0xffff                                C:\WINDOWS\system32\USER32.dll
+0x77dd0000    0x9b000     0xffff                                C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x93000     0xffff                                C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff                                C:\WINDOWS\system32\Secur32.dll
+0x7c9c0000   0x818000     0xffff                                C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000     0xffff                                C:\WINDOWS\system32\SHLWAPI.dll
+0x773d0000   0x103000     0xffff                                C:\WINDOWS\WinSxS\X86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.6028_x-ww_61e65202\COMCTL32.dll
+0x77120000    0x8b000     0xffff                                C:\WINDOWS\system32\OLEAUT32.dll
+0x774e0000   0x13e000     0xffff                                C:\WINDOWS\system32\ole32.dll
+0x78130000   0x134000     0xffff                                C:\WINDOWS\system32\urlmon.dll
+0x3dfd0000   0x1ec000     0xffff                                C:\WINDOWS\system32\iertutil.dll
+0x76080000    0x65000     0xffff                                C:\WINDOWS\system32\MSVCP60.dll
+0x71ab0000    0x17000     0xffff                                C:\WINDOWS\system32\WS2_32.dll
+0x71aa0000     0x8000     0xffff                                C:\WINDOWS\system32\WS2HELP.dll
+0x3d930000    0xe7000     0xffff                                C:\WINDOWS\system32\WININET.dll
+0x00340000     0x9000     0xffff                                C:\WINDOWS\system32\Normaliz.dll
+0x76390000    0x1d000        0x4                                C:\WINDOWS\system32\IMM32.DLL
+0x629c0000     0x9000        0x1                                C:\WINDOWS\system32\LPK.DLL
+0x74d90000    0x6b000        0x2                                C:\WINDOWS\system32\USP10.dll
+0x732e0000     0x5000        0x1                                C:\WINDOWS\system32\RICHED32.DLL
+0x74e30000    0x6d000        0x1                                C:\WINDOWS\system32\RICHED20.dll
+0x5ad70000    0x38000        0x3                                C:\WINDOWS\system32\uxtheme.dll
+0x74720000    0x4c000        0x1                                C:\WINDOWS\system32\MSCTF.dll
+0x755c0000    0x2e000        0x2                                C:\WINDOWS\system32\msctfime.ime
+0x769c0000    0xb4000        0x1                                C:\WINDOWS\system32\USERENV.dll
+0x00ea0000    0x29000        0x1                                C:\WINDOWS\system32\msls31.dll

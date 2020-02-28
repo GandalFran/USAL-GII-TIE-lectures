@@ -1,0 +1,186 @@
+    1  cd Desktop/
+    2  ls
+    3  mkdir ramsonware
+    4  mount -t vboxsf ramsonware /home/kali/Desktop/ramsonware/
+    5  sudo mount -t vboxsf ramsonware /home/kali/Desktop/ramsonware/
+    6  volatility
+    7  volatility -h
+    8  apt-get install volatility
+    9  sudo apt-get install volatility
+   10  cd ramsonware/
+   11  ls
+   12  cd volatility_2.6_lin64_standalone/
+   13  ls
+   14  ./volatility_2.6_lin64_standalone/
+   15  cd volatility_2.6_lin64_standalone/
+   16  ls
+   17  ./volatility_2.6_lin64_standalone
+   18  vol.py
+   19  sudo apt install git
+   20  ls
+   21  cd ..
+   22  ls
+   23  cd ..
+   24  ls
+   25  unzip volatility-master
+   26  sudo unzip volatility-master
+   27  cd volatility-master/
+   28  ls
+   29  cd volatility-master/
+   30  ls
+   31  vol.py
+   32  python vol.py
+   33  ls
+   34  cd volatility/
+   35  ls
+   36  cd ..
+   37  ls
+   38  make
+   39  make build
+   40  sudo make
+   41  python vol.py -h
+   42  pwd
+   43  sudo apt-get install pip
+   44  sudo apt-get update
+   45  sudo apt-get install pip
+   46  sudo apt-get install python-pip
+   47  cd ..
+   48  pip install pycrypto && pip install distorm3
+   49  cat /etc/issue
+   50  lsb_release 
+   51  lsb_release -a
+   52  clear
+   53  cd Desktop/
+   54  cd malware/
+   55  clear
+   56  ls
+   57  ..
+   58  ls
+   59* python3 ../volatility-master/volatility-master/vol.py -h 
+   60  python ../volatility-master/volatility-master/vol.py 
+   61  python ../volatility-master/volatility-master/vol.py -h
+   62  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz 
+   63  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz > strings_dump.txt
+   64  cat strings_dump.txt 
+   65  mv strings_dump.txt wanna.txt
+   66  ls
+   67  clear
+   68  cat wanna.txt 
+   69  clear
+   70  ls
+   71  clear
+   72  ls
+   73  ls -l
+   74  ls -la
+   75  clear
+   76  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep 445
+   77  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep ssh
+   78  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep sudo
+   79  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep curl
+   80  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | head 5
+   81  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | head
+   82  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep http
+   83  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep https
+   84  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep samba
+   85  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep smb
+   86  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep smb://
+   87  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep system32
+   88  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep gnupg
+   89  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep openssl
+   90  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep user
+   91  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep C
+   92  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep C:
+   93  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep Users
+   94  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep make
+   95  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep gcc
+   96  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep pyc
+   97  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep .pyc
+   98  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep exe
+   99  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin.gz | grep dump
+  100  ls
+  101  cd 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin/
+  102  ls
+  103  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin | grep dump
+  104  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin | grep http
+  105  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin | grep smb
+  106  strings 24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c.bin > wanna.txt
+  107  cat wanna.txt 
+  108  cat wanna.txt | grep exe
+  109  cat wanna.txt | grep exe > wanna_exe.txt
+  110  cat wanna.txt | grep http > wanna_http.txt
+  111  cat wanna_exe.txt 
+  112  cat wanna.txt | grep attrib 
+  113  cat wanna.txt | grep -n attrib 
+  114* cat wanna.txt | grep -n 0 > wanna_attrib.txt
+  115  cat wanna.txt | grep -n wncry
+  116  cat wanna.txt | grep -n WNcry@2017
+  117  cat wanna.txt | grep -n attrib 
+  118  cat wanna.txt | grep -n WNcry@2ol7
+  119  ls
+  120  cd ..
+  121  python ../volatility-master/volatility-master/vol.py malware.raw 
+  122* python ../volatility-master/volatility-master/vol.py -
+  123  python ../volatility-master/volatility-master/vol.py -k apihooks  malware.raw 
+  124  python ../volatility-master/volatility-master/vol.py apihooks  malware.raw 
+  125  python ../volatility-master/volatility-master/vol.py apihooks -f  malware.raw 
+  126  python ../volatility-master/volatility-master/vol.py -f malware.raw imageinfo 
+  127  python ../volatility-master/volatility-master/vol.py -f malware.raw imageinfo > volatility_imageinfo.txt
+  128  cat volatility_imageinfo.txt 
+  129  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 > volatility_imageinfo.txt
+  130  cat volatility_imageinfo.txt 
+  131  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP3
+  132  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP3x86
+  133  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86
+  134  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 pslist
+  135  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 pslist > pslist.txt
+  136  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 psscan | grep 1940 > salida1940.txt
+  137  cat salida1940.txt 
+  138  sort
+  139  sort salida1940.txt 
+  140  sort salida1940.txt -c 1
+  141  sort salida1940.txt -c 2
+  142  sort salida1940.txt  2
+  143  sort -k 7,7  salida1940.txt 
+  144  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 dlllist -p 1940 > dlllist1940.txt
+  145  cat dlllist1940.txt 
+  146  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 dlllist -p 740 > dlllist740.txt
+  147  cat dlllist740.txt 
+  148  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 handles -p 1940 -t Key > handles1940.txt 
+  149  cat handles1940.txt 
+  150  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 handles -p 1940 -t Mutant > handles1940Mutant.txt 
+  151  cat handles1940Mutant.txt 
+  152  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 handles -p 1940 -t File > handles1940File.txt 
+  153  cat handles1940File.txt 
+  154  echo  esto que acabo de poner dice como ha mutado y cual es el nucleo del proceso que estamos analizanod
+  155  echo ahora hare lo mismo con el proceso 740
+  156  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 handles -p 740 -t File > handles740File.txt 
+  157  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 handles -p 740 -t Mutant > handles740Mutant.txt 
+  158  cat handles740File.txt 
+  159  cat handles740Mutant.txt 
+  160  echo es el mismo userid que antes
+  161  echo conclusion, este malware tiene mecanismos de persistencia, y para ver donde estan residiendo hacemos lo siguiente
+  162  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 handles -p 740 -t Mutant > handles740Mutant.txt 
+  163  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 printkey -K  "Microsoft\CurrentVersion\Run" > printkey.xt 
+  164  echo con esto vemos que programas se inicial al arranque
+  165  cat printkey.xt 
+  166  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 printkey -K  "Microsoft\Windows\CurrentVersion\Run" > printkey.xt 
+  167  cat printkey.xt 
+  168  echo cada vez que iniciamos este proces se inica y va encriptando mas ficheros
+  169  echo ahora haremos mini dumps de memoria para subirlas a virustotal y ver que dll esta infectada
+  170  clear
+  171  ls
+  172  mkdir memdump
+  173  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 memdump -p 1940,740 -D memdump/
+  174  ls
+  175  ls memdump/
+  176  history
+  177  history > currentCommandDump.txt
+  178  clear
+  179  cat currentCommandDump.txt 
+  180  clear
+  181  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 filescan | grep ivecuqmanpnirkt615
+  182  python ../volatility-master/volatility-master/vol.py -f malware.raw --profile=WinXPSP2x86 filescan | grep ivecuqmanpnirkt615 > filescanivecuqmanp.txt
+  183  echo en el comando canterior podemos ver que ficheros ha ido encriptado el wanacry en el dump de memoria
+  184  echo para poder seguir, podriamos sacar varios datos relacionados con la red y podriamos casar la linea de tiemo de eventos de red con los de los ficheros (aunque no lo vamos a hacer)
+  185  echo para poder seguir, podriamos sacar varios datos relacionados con la red y podriamos casar la linea de tiemo de eventos de red con los de los ficheros, aunque no lo vamos a hacer
+  186  history > currentCommandDump.txt

@@ -1,0 +1,6 @@
+Offset(V)     Pid     Handle     Access Type             Details
+---------- ------ ---------- ---------- ---------------- -------
+0x81fbce00   1940        0xc   0x100020 File             \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.6028_x-ww_61e65202
+0x82233f18   1940       0x34   0x100020 File             \Device\HarddiskVolume1\Intel\ivecuqmanpnirkt615
+0x822386a8   1940       0x48   0x100001 File             \Device\KsecDD
+0x823a0cd0   1940       0x50   0x100020 File             \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.6028_x-ww_61e65202

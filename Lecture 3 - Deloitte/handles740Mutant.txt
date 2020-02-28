@@ -1,0 +1,11 @@
+Offset(V)     Pid     Handle     Access Type             Details
+---------- ------ ---------- ---------- ---------------- -------
+0x821883e8    740       0xbc   0x120001 Mutant           ShimCacheMutex
+0x822292d8    740       0xc0   0x1f0001 Mutant           CTF.TimListCache.FMPDefaultS-1-5-21-602162358-764733703-1957994488-1003MUTEX.DefaultS-1-5-21-602162358-764733703-1957994488-1003
+0x821bb348    740       0xf4   0x1f0001 Mutant           CTF.Compart.MutexDefaultS-1-5-21-602162358-764733703-1957994488-1003
+0x821bac38    740       0xfc   0x1f0001 Mutant           CTF.LBES.MutexDefaultS-1-5-21-602162358-764733703-1957994488-1003
+0x8238b030    740      0x100   0x1f0001 Mutant           CTF.Asm.MutexDefaultS-1-5-21-602162358-764733703-1957994488-1003
+0x8238b0e0    740      0x104   0x1f0001 Mutant           CTF.Layouts.MutexDefaultS-1-5-21-602162358-764733703-1957994488-1003
+0x8238b090    740      0x108   0x1f0001 Mutant           CTF.TMD.MutexDefaultS-1-5-21-602162358-764733703-1957994488-1003
+0x82219398    740      0x10c   0x1f0001 Mutant           MSCTF.Shared.MUTEX.EBD
+0x82025728    740      0x110   0x1f0001 Mutant           MSCTF.Shared.MUTEX.IHG
