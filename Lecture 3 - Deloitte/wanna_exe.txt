@@ -1,0 +1,9 @@
+mssecsvc.exe
+mssecsvc.exe
+tasksche.exe
+cmd.exe /c "%s"
+tasksche.exe
+taskdl.exe
+taskse.exed*
+taskdl.exe
+taskse.exe
